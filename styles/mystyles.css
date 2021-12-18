@@ -1,0 +1,15 @@
+.header{
+    font-weight: 300;
+}
+
+.h2{
+    font-variant: small-caps;
+}
+
+.img-resizing{
+    max-width: 60%;
+}
+
+.footer{
+    background-color: navy;
+}
